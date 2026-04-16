@@ -1,0 +1,4 @@
+name = "victoria garcía"
+print(name.lower())
+print(name.upper())
+print(name.title())
